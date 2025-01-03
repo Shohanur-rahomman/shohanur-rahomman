@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shohanur Rahomman</h1>
 <h3 align="center">A Dynamic And Passionate MERN Stack Web Developer From Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="[[![image](https://github.com/user-attachments/assets/a5125c1d-4807-4a94-99bb-08fe009cb429)
-)](https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)">
+<img align="right" alt="coding" width="400" src="https://i.ibb.co.com/893hfzc/ddd.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shohanur-rahomman&label=Profile%20views&color=0e75b6&style=flat" alt="shohanur-rahomman" /> </p>
 
