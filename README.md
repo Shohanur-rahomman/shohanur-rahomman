@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co.com/54svzym/bg-2.png" alt="Banner" width="100%" style="radius: 10px">
+
 <h1 align="center">Hi 👋, I'm Shohanur Rahomman</h1>
 <h3 align="center">A Dynamic And Passionate MERN Stack Web Developer From Bangladesh</h3>
 
